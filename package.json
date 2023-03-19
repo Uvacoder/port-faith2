@@ -25,6 +25,9 @@
     "three": "^0.120.1",
     "three-orbitcontrols": "^2.110.2"
   },
+  "engines": {
+    "node": "16.19.0"
+  },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "babel-plugin-styled-components": "^1.11.1",
